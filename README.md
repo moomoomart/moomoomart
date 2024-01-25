@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Valerie Seow, @moomoomart a 20 year old student on a self-learning journey towards becoming a programmer. 
+- 👋 Hi, I’m Valerie Seow, a 20 year old student on a self-learning journey towards becoming a programmer. 
 - 👀 I’m interested in gaming and is aspiring to ultimately become a game developer 😃
 - 🌱 I’m currently self-learning Python, HTML, CSS and Javascript.
 - 💞️ I’m planning to collaborate with my partner on a game project.
